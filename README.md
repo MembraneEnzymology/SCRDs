@@ -1,3 +1,6 @@
+# SCRDs
+This repository contains tools for Synthetic Cell Reporting Datasheets (SCRDs)
+
 # scrd_autofill
 
 Draft a **Synthetic Cell Reporting Datasheet** (SCRD) straight from a DOI or a PDF.
