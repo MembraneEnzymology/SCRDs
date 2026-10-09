@@ -205,15 +205,3 @@ the script is needed.
 
 Roughly half of all required fields are filled automatically from a full methods
 section. The rest are flagged, not silently skipped — which is the point.
-
----
-
-## Citation
-
-If you use this tool, please cite the Comment describing the datasheets:
-
-> <authors>. Defining engineering standards for synthetic cells. <journal> (<year>).
-
-## License
-
-<choose one, e.g. MIT>
